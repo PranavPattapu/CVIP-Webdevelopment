@@ -107,7 +107,6 @@ nav button{
     padding: 15px 30px;
 }
 
-/*----------------features-------------*/
 
 .features{
     padding: 0px 22%;
@@ -143,9 +142,6 @@ nav button{
     font-weight: 600;
     margin-bottom: 20px;
 }
-
-
-/*---------------------------FAQ Section----------------*/
 
 
 .faq{
@@ -221,9 +217,6 @@ input[type="radio"]{
 }
 
 
-/*----------------------------footer----------------*/
-
-
 .footer{
     padding: 50px 15% 10px;
     border-top: 6px solid #333;
@@ -267,8 +260,6 @@ input[type="radio"]{
     margin-bottom: 10px;
 }
 
-
-/*---------------------------------media-queries-for-small-screen---------------------------*/
 
 @media only screen and (max-width:600px){
     .logo{
